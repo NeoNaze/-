@@ -1,3 +1,35 @@
-# Furytuvamekif- 
+# Yunfei's fork of skill prediction
 
-Heyhey
+This version of SP will handle racial differences instead of elin only.
+
+Update Nov 21, 2017: Archer charge skills level support. F.Human archer data
+
+
+Soon™: Burst fire and Mana charge armor roll support, Double casts prevention(Short skills like Teleporting jaunts, Overpower, Restraning arrow, Web arrow)
+
+
+## Races/Classes that are specialized so far
+
+Any races/classes that are not mentioned here will use elin's configuration as default, if the class is non-race locked. F.cast's if gunner.
+
+- M.Human: Lancer, Slayer, Archer
+
+- F.Human: Archer
+
+- M.Elf: Warrior, Lancer, Slayer
+
+- F.Elf: Mystic
+
+- M.Aman: Lancer, Slayer, Sorcerer
+
+- F.Aman: Lancer, Warrior (level25), Slayer, Sorcerer
+
+- M.Cast: Slayer, Berserker (Not level65 yet)
+
+- F.Cast: Slayer (level10)
+
+- Popori: Warrior, Lancer, Slayer, Berserker, Archer, Mystic
+
+- Elin: Gunner (Not level65 yet)
+
+- Baraka: Slayer, Berserker
